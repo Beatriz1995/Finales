@@ -27,8 +27,8 @@
     <splash src="res/screen/android/splash-port-mdpi.png" density="port-mdpi"/>
     <splash src="res/screen/android/splash-port-xhdpi.png" density="port-xhdpi"/>
 </platform>
-<icon src="images/servicio.png" gap:density="ldpi" gap:platform="android" />
-<icon src="images/servicio.png" gap:density="mdpi" gap:platform="android" />
-<icon src="images/servicio.png" gap:density="hdpi" gap:platform="android" />
-<icon src="images/servicio.png" gap:density="xhdpi" gap:platform="android" />
+<icon src="img/servicio.png" gap:density="ldpi" gap:platform="android" />
+<icon src="img/servicio.png" gap:density="mdpi" gap:platform="android" />
+<icon src="img/servicio.png" gap:density="hdpi" gap:platform="android" />
+<icon src="img/servicio.png" gap:density="xhdpi" gap:platform="android" />
 </widget>
